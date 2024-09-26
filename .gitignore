@@ -4,3 +4,8 @@
 .Ruserdata
 
 /.quarto/
+/_manuscript/
+*.html
+*.ipynb
+*.json
+*.rmarkdown
